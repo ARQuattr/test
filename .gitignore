@@ -33,6 +33,6 @@
 RemoteSystemsTempFiles/*
 
 #Build Folders
-CloudBurst/Food\ Station/*
-CloudBurst/Collar/*
+test/Food\ Station/*
+test/Collar/*
 
